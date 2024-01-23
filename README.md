@@ -1,4 +1,5 @@
-`⚠️ Moved to: [M-Pad/MicroPad](https://github.com/M-Pad/MicroPad)`
+> [!CAUTION]
+> ⚠️ Moved to: [M-Pad/MicroPad](https://github.com/M-Pad/MicroPad)
 
 # MicroPad
 
